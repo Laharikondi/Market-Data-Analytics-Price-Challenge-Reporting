@@ -18,9 +18,13 @@ APIs – Alpha Vantage, Yahoo Finance, Poly.io, Stock Data, Twelve Data
 
 # Resource
 [Alpha vantage](https://www.alphavantage.co/)
+
 [Yahoo Finance](https://developer.yahoo.com/api/)
+
 [Poly.io](https://massive.com/)
+
 [Stock Data](https://https://marketstack.com/)
+
 [Twelve Data](https://twelvedata.com/stocks)
 
 # Project Steps
