@@ -3,7 +3,7 @@ from alpha_vantage.timeseries import TimeSeries
 from alpha_vantage.foreignexchange import ForeignExchange
 import os
 
-# ======= API Key =======
+# ======= API Key ========
 api_key = 'MPEKFJF45GOQX41E'
 
 # ======= Markets Metadata =======
